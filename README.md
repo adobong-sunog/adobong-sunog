@@ -1,6 +1,6 @@
 - 👋 Hello there, I’m @AncientSoup.
 - ➕ I am a christian.
-- 🎶 I love listening to music (and also play musical instruments such as the piano, guitar, etc) and programming.
+- 🎶 I love listening to music(and also play musical instruments such as the piano, guitar, etc), solving cases and programming.
 - 🕵️‍♂️ I’m currently exploring the world of Computer Science (Especially more on the web development side).
 - 📫 Currently available social media accounts:
      {
