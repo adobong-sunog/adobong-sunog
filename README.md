@@ -1,8 +1,8 @@
-- 👋 Hello there, I’m @AncientSoup.
-- ➕ I am a christian.
-- 🎶 I love listening to music(and also play musical instruments such as the piano, guitar, etc), solving cases and programming.
-- 🕵️‍♂️ I’m currently exploring the world of Computer Science (Especially more on the web development side).
-- 📫 Currently available social media accounts:
+💻 | 🎸 | ✝
+-------------------
+Exploring the world of Computer Science before getting kicked back to reality.
+-------------------
+You can connect with me here as well:
      {
         ● Discord: adobé sauce#0307
         ● Instagram: @adobong_sunog
