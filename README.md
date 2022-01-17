@@ -1,6 +1,6 @@
 💻 | 🎸 | ✝
 -------------------
-Exploring the world of Computer Science before getting kicked back to reality.
+Exploring the world of Computer Science
 -------------------
 <!---
 AncientSoup/AncientSoup is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
