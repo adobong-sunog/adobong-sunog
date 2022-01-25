@@ -7,7 +7,8 @@ I'm Daniel Salvacion, a human being whose interests are playing musical instrume
   
 # Projects:
   
-* All under development / not yet hosted online.  
+* [CS50W Projects](https://github.com/stars/AncientSoup/lists/cs50w-projects)
+* The rest are under development / not yet hosted online.  
   
 # Contact me:
   
