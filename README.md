@@ -1,4 +1,4 @@
-#### (Currently under development, so apologies for some missing information.)  
+#### (Currently under development, so apologies for some missing information)  
 
 # About me:
   
