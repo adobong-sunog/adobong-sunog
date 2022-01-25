@@ -1,9 +1,9 @@
-#### (Currently in development, so apologies for some missing information.)  
+#### (Currently under development, so apologies for some missing information.)  
 
 # About me:
   
 I'm Daniel Salvacion, a human being whose interests are playing musical instruments (keyboard and the guitar), sleeping and learning web development (and cloud computing too eventually).  
-> My website portfolio: (currently in development)  
+> My website portfolio: (currently under development)  
   
 # Projects:
   
@@ -13,7 +13,7 @@ I'm Daniel Salvacion, a human being whose interests are playing musical instrume
   
 > danielsalvacion18@gmail.com  
 * [Instagram](https://www.instagram.com/adobong_sunog)  
-* LinkedIn (profile currently in development)  
+* LinkedIn (profile currently under development)  
   
 # Skillset:
 * Markup languages (HTML, CSS)
