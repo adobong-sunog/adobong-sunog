@@ -11,7 +11,7 @@ I'm Daniel Salvacion, a human being whose interests are playing musical instrume
   
 # Contact me:
   
-> Gmail: danielsalvacion18@gmail.com  
+> danielsalvacion18@gmail.com  
 * [Instagram](https://www.instagram.com/adobong_sunog)  
 * LinkedIn (profile currently in development)  
   
