@@ -1,4 +1,4 @@
-#### (Currently under development, so apologies for some missing information)  
+#### (Currently under development, so apologies for some of the missing information)  
 
 # About me:
   
@@ -17,16 +17,12 @@ I'm Daniel Salvacion, a human being whose interests are playing musical instrume
   
 # Skillset:
 * Programming languages:
-    * C/C++
-    * Python
-    * JavaScript
-    * Ruby
+    * C/C++, Python, JavaScript, Ruby
 * HTML & CSS
 * Web frameworks:
-    * Flask
-    * Django
-    * Rails
-* SQL
+    * Flask, Django, Rails
+* SQL:
+    * SQLite, MySQL, PostgreSQL
 * Git (version control)  
  
 #  
