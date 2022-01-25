@@ -16,12 +16,12 @@ I'm Daniel Salvacion, a human being whose interests are playing musical instrume
 * LinkedIn (profile currently under development)  
   
 # Skillset:
-* HTML, CSS
 * Programming languages:
     * C/C++
     * Python
     * JavaScript
     * Ruby
+* HTML & CSS
 * Web frameworks:
     * Flask
     * Django
