@@ -15,6 +15,20 @@ I'm a human being, whose interests are playing musical instruments (keyboard and
 * [Instagram](https://www.instagram.com/adobong_sunog)  
 * LinkedIn (profile currently in development)  
   
+# Skillset:
+* Markup languages (HTML, CSS)
+* Programming languages:
+    * C/C++
+    * Python
+    * JavaScript
+    * Ruby
+* Web frameworks:
+    * Flask
+    * Django
+    * Rails
+* SQL
+* Git (version control)  
+ 
 #  
 💻 | 🎸 | ✝
 <!---
