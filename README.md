@@ -16,7 +16,7 @@ I am Daniel Salvacion, a human being learning web development (and cloud computi
 * LinkedIn (profile currently in development)  
 * [Discord](https://discordapp.com/users/704914462238310450/)  
   
----  
+***  
 💻 | 🎸 | ✝
 <!---
 AncientSoup/AncientSoup is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
