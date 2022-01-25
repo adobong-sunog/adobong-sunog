@@ -1,4 +1,5 @@
 #### (Currently under development, so apologies for some missing information.)  
+> Status: still learning
 
 # About me:
   
