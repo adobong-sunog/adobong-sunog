@@ -2,7 +2,7 @@
 
 # About me:
   
-I'm a human being, whose interests are playing musical instruments (keyboard and the guitar), sleeping and learning web development (and cloud computing too eventually).  
+I'm Daniel Salvacion, a human being whose interests are playing musical instruments (keyboard and the guitar), sleeping and learning web development (and cloud computing too eventually).  
 > My portfolio: (currently in development)  
   
 # Projects:
