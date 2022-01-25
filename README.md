@@ -16,7 +16,7 @@ I'm Daniel Salvacion, a human being whose interests are playing musical instrume
 * LinkedIn (profile currently under development)  
   
 # Skillset:
-* Markup languages (HTML, CSS)
+* HTML, CSS
 * Programming languages:
     * C/C++
     * Python
