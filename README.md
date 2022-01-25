@@ -15,7 +15,7 @@ I'm a human being, whose interests are playing musical instruments (keyboard and
 * [Instagram](https://www.instagram.com/adobong_sunog)  
 * LinkedIn (profile currently in development)  
   
-# Skillset:
+# Current skillset:
 * Markup languages (HTML, CSS)
 * Programming languages:
     * C/C++
