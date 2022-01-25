@@ -2,7 +2,7 @@
 
 # About me:
   
-I am Daniel Salvacion, a human being learning web development (and cloud computing too eventually).  
+I'm a human being, whose interests are playing musical instruments (keyboard and the guitar), sleeping and learning web development (and cloud computing too eventually).  
 > My portfolio: (currently in development)  
   
 # Projects:
@@ -14,7 +14,6 @@ I am Daniel Salvacion, a human being learning web development (and cloud computi
 > Gmail: danielsalvacion18@gmail.com  
 * [Instagram](https://www.instagram.com/adobong_sunog)  
 * LinkedIn (profile currently in development)  
-* [Discord](https://discordapp.com/users/704914462238310450/)  
   
 #  
 💻 | 🎸 | ✝
