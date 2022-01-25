@@ -27,6 +27,7 @@ I'm a human being whose interests are playing musical instruments (keyboard and 
 * Git (version control)  
  
 #  
+I took [CS50](https://cs50.harvard.edu/)
 💻 | 🎸 | ✝
 <!---
 AncientSoup/AncientSoup is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
