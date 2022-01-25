@@ -1,10 +1,10 @@
 #### (Currently under development, so apologies for some missing information.)  
-> Personal status: not yet good enough for hiring
 
 # About me:
   
 I'm Daniel Salvacion, a human being whose interests are playing musical instruments (keyboard and the guitar), sleeping and learning web development (and cloud computing too eventually).  
 > My website portfolio: (currently under development)  
+> Personal status: not yet good enough for hiring  
   
 # Projects:
   
