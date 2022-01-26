@@ -11,12 +11,6 @@ I'm a human being whose interests are playing musical instruments (keyboard and 
 * [CS50W Projects](https://github.com/stars/AncientSoup/lists/cs50w-projects)
 * The rest are under development / not yet hosted online.  
   
-# Contact me:
-  
-> danielsalvacion18@gmail.com  
-* [Instagram](https://www.instagram.com/adobong_sunog)  
-* LinkedIn (profile currently under development)  
-  
 # Skillset:
 * Programming languages:
     * C/C++, Python, JavaScript, Ruby
@@ -26,7 +20,13 @@ I'm a human being whose interests are playing musical instruments (keyboard and 
 * SQL:
     * SQLite, MySQL, PostgreSQL
 * Git (version control)  
- 
+  
+# Contact me:
+  
+> danielsalvacion18@gmail.com  
+* [Instagram](https://www.instagram.com/adobong_sunog)  
+* LinkedIn (profile currently under development)  
+  
 #  
 I took [CS50](https://cs50.harvard.edu/)  
 💻 | ✝ | 🎸
