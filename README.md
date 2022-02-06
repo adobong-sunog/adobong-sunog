@@ -8,7 +8,7 @@ I'm a human being whose interests are playing musical instruments (keyboard and 
   
 # Projects:
   
-> Notable projects:
+> ### Notable projects:
 > * All under development
   
 * [CS50W Projects](https://github.com/stars/AncientSoup/lists/cs50w-projects), all of the projects I made while taking CS50W (ongoing).
