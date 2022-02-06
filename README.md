@@ -9,17 +9,8 @@ I'm a human being whose interests are playing musical instruments (keyboard and 
 # Projects:
   
 * [CS50W Projects](https://github.com/stars/AncientSoup/lists/cs50w-projects), all of the projects I made while taking CS50W (ongoing).
+* [TOP Projects](https://github.com/stars/AncientSoup/lists/top-projects), all of the projects I made for The Odin Project (ongoing).
 * The rest are under development / not yet hosted online.  
-  
-# Skillset:
-* Programming languages:
-    * C/C++, Python, JavaScript, Ruby
-* HTML & CSS
-* Web frameworks:
-    * Flask, Django, Rails
-* SQL:
-    * SQLite, MySQL, PostgreSQL
-* Git (version control)  
   
 # Contact me:
   
