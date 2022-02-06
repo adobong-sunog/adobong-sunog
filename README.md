@@ -8,6 +8,8 @@ I'm a human being whose interests are playing musical instruments (keyboard and 
   
 # Projects:
   
+> Notable projects: All under development
+  
 * [CS50W Projects](https://github.com/stars/AncientSoup/lists/cs50w-projects), all of the projects I made while taking CS50W (ongoing).
 * [TOP Projects](https://github.com/stars/AncientSoup/lists/top-projects), all of the projects I made for The Odin Project (ongoing).
 * The rest are under development / not yet hosted online.  
