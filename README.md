@@ -1,5 +1,5 @@
 #### (Currently under development, so apologies for some of the missing information)  
-> Not yet ready for hire. Learning web development because of interest and for now.  
+> Not yet ready for hire. Learning web development because of interest for now.  
 
 # About me:
   
