@@ -16,10 +16,9 @@ I'm a human being whose interests are playing musical instruments (keyboard and 
 * [TOP Projects](https://github.com/stars/AncientSoup/lists/top-projects), all of the projects I made for The Odin Project (ongoing).
 * [CS50W Projects](https://github.com/stars/AncientSoup/lists/cs50w-projects), all of the projects I made while taking CS50W (ongoing).  
   
-# Contact me:
-  
-> danielsalvacion18@gmail.com  
-* [Instagram](https://www.instagram.com/adobong_sunog)  
+# Social media accounts:
+* [Discord](https://discord.com/users/704914462238310450)
+* [Instagram](https://www.instagram.com/adobong_sunog)
 * LinkedIn (profile currently under development)  
   
 #  
