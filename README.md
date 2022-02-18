@@ -13,8 +13,8 @@ I'm a human being whose interests are playing musical instruments (keyboard and 
 
 ### All projects:
 * [CS50 Finance](https://github.com/AncientSoup/cs50_finance), a buy and sell stocks simulator.
-* [CS50W Projects](https://github.com/stars/AncientSoup/lists/cs50w-projects), all of the projects I made while taking CS50W (ongoing).
-* [TOP Projects](https://github.com/stars/AncientSoup/lists/top-projects), all of the projects I made for The Odin Project (ongoing).  
+* [TOP Projects](https://github.com/stars/AncientSoup/lists/top-projects), all of the projects I made for The Odin Project (ongoing).
+* [CS50W Projects](https://github.com/stars/AncientSoup/lists/cs50w-projects), all of the projects I made while taking CS50W (ongoing).  
   
 # Contact me:
   
