@@ -21,7 +21,7 @@ I'm a human being whose interests are playing musical instruments (keyboard and 
 ![instagram logo](https://github.com/AncientSoup/AncientSoup/blob/main/insta.png) [Instagram](https://www.instagram.com/adobong_sunog)  
 ![linkedin logo](https://github.com/AncientSoup/AncientSoup/blob/main/linkedin.png) LinkedIn (profile currently under development)
 #  
-![cs50 logo](https://github.com/AncientSoup/AncientSoup/blob/main/favicon-16x16.png) I took [CS50](https://cs50.harvard.edu/)  
+I took [CS50](https://cs50.harvard.edu/) ![cs50 logo](https://github.com/AncientSoup/AncientSoup/blob/main/favicon-16x16.png)  
 💻 | ✝ | 🎸
 <!---
 AncientSoup/AncientSoup is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
