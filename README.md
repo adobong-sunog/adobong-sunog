@@ -3,8 +3,7 @@
 
 # About me:
   
-I'm a human being whose interests are playing musical instruments (keyboard and the guitar), sleeping and learning web development (and cloud computing too eventually).  
-> My website portfolio: (currently under development)
+I'm a human being whose interests are playing musical instruments (keyboard and the guitar), sleeping and learning web development (and cloud computing too eventually).
   
 # Projects:
   
