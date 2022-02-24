@@ -12,7 +12,7 @@ I'm a human being whose interests are playing musical instruments (keyboard and 
 
 ### All projects:
 ![finance logo](https://github.com/AncientSoup/AncientSoup/blob/main/finance.png) [CS50 Finance](https://github.com/AncientSoup/cs50_finance), a buy and sell stocks simulator.  
-![odinProject logo](https://github.com/AncientSoup/AncientSoup/blob/main/odin_project.png) [TOP Projects](https://github.com/stars/AncientSoup/lists/top-projects), all of the projects I made for The Odin Project (ongoing).  
+![odinProject logo](https://github.com/AncientSoup/AncientSoup/blob/main/odin_project.png) [TOP Projects](https://github.com/AncientSoup/TOP-Projects), all of the projects I made for The Odin Project (ongoing).  
 ![harvardES logo](https://github.com/AncientSoup/AncientSoup/blob/main/cs50w.png) [CS50W Projects](https://github.com/AncientSoup/CS50W-Projects), all of the projects I made while taking CS50W (ongoing).  
   
 # Social media accounts:
