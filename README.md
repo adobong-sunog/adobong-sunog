@@ -16,7 +16,6 @@ Not yet ready for hire.
   
 # Social media accounts:
 ![discord logo](https://github.com/AncientSoup/AncientSoup/blob/main/discord.png) [Discord](https://discord.com/users/704914462238310450)  
-![instagram logo](https://github.com/AncientSoup/AncientSoup/blob/main/insta.png) [Instagram](https://www.instagram.com/adobong_sunog)  
 ![linkedin logo](https://github.com/AncientSoup/AncientSoup/blob/main/linkedin.png) LinkedIn (profile currently under development)
 #  
 I took [CS50](https://cs50.harvard.edu/) ![cs50 logo](https://github.com/AncientSoup/AncientSoup/blob/main/favicon-16x16.png)  
