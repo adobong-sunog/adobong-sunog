@@ -1,5 +1,5 @@
 # Hello👋
-I'm a human being whose interests are playing musical instruments (keyboard and the guitar), sleeping, learning web development and database management (and cloud computing too eventually).  
+I'm a human being whose interests are playing musical instruments (keyboard and the guitar), sleeping, learning web development and database management.  
 
 # Social media accounts:
 ![discord logo](https://github.com/AncientSoup/AncientSoup/blob/main/discord.png) [Discord](https://discord.com/users/704914462238310450)  
