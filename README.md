@@ -4,7 +4,7 @@
 
 <p align="center">I'm a human being whose interests are playing musical instruments (keyboard and the guitar), sleeping, learning web development and database management.<p/>
 
-<h3 align="center">Social media accounts</h3>
+<h3 align="center">Get in touch</h3>
 
 ---
 
