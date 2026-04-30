@@ -1,10 +1,8 @@
-<h2>Hello!👋</h2>
+### Hello!👋
 
 ---
 
-<p>I'm <a href="https://github.com/adobong-sunog">asadosauce</a>, a hobbyist musician continuously expanding my skills in programming and software development. </p>
-
-<p>Currently based in the Philippines.</p>
+<p>I'm <a href="https://github.com/adobong-sunog">asadosauce</a>, a hobbyist musician continuously expanding my skills in programming and software development, currently based in the Philippines. </p>
 
 <p>Most of the stuff I've made were full-stack web applications since 2022, and currently I'm also learning machine learning as well as cloud computing (mainly AWS).</p>
 
